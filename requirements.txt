@@ -1,0 +1,15 @@
+itemadapter==0.2.0
+pandas==1.4.2
+PyVirtualDisplay==3.0
+requests==2.28.1
+Scrapy==2.6.2
+scrapy_inline_requests==0.3.1
+scrapy_selenium==0.0.7
+selenium==4.5.0
+selenium_stealth==1.0.6
+selenium_wire==5.0.0
+stem==1.8.1
+toripchanger==1.1.4
+urllib3==1.26.12
+pyOpenSSL==22.0.0
+joblib==1.2.0
